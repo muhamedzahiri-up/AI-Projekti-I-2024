@@ -122,6 +122,7 @@ Në një aheng janë ftuar 100 mysafirë. Mysafirët duhet të ulen në 10 tavol
 
 ## Pjesa II - Detyra III - Constraint Programming Problem
 **Kërkesa e detyrës:** Të zgjidhet problemi Killer Sudoku (https://sudoku.com/killer) duke aplikuar Constraint Programming (CSP)
+
 ---
 
 ## Pjesa III - Detyra I - Teoria e lojrave - MiniMax Algorithm
