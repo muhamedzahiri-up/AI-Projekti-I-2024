@@ -49,10 +49,6 @@
   - [Grupi punues](#grupi-punues)
   - [Përmbajtja](#përmbajtja)
   - [Përshkrimi i Detyrave](#përshkrimi-i-detyrave)
-  - [Detyra I - Social Golfers Problem](#detyra-i---social-golfers-problem)
-  - [Detyra II - Sudoku Solver](#detyra-ii---sudoku-solver)
-  - [Detyra III - Latin Square](#detyra-iii---latin-square)
-
 ---
 
 ## Përshkrimi i Detyrave
